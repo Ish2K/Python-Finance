@@ -1,0 +1,13 @@
+NumPy
+SciPy
+BeautifulSoup
+Scrappy
+Pandas
+Matplotlib
+Plotly
+Seaborn
+Scikit
+PyCaret
+TensorFlow
+Keras
+PyTorch
